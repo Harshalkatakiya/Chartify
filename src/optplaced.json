@@ -1,0 +1,89 @@
+{
+    "BCA":[
+        {
+          "program": "B.C.A.",
+          "year": "2020-2021",
+          "columns": ["Total", "Opted", "Placed"],
+          "row": [100, 45,33],
+          "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+          "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+          "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        },
+        {
+            "program": "B.C.A.",
+            "year": "2021-2022",
+             "columns": ["Total", "Opted", "Placed"],
+            "row": [144, 53, 43],
+            "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        },
+        {
+            "program": "B.C.A.",
+            "year": "2022-2023",
+             "columns": ["Total", "Opted", "Placed"],
+            "row": [216, 134, 24],
+            "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        }
+    ],
+    "BScIT":[
+        {
+          "program": "BScIT",
+          "year": "2020-2021",
+          "columns": ["Total", "Opted", "Placed"],
+          "row": [100, 35, 28],
+          "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+          "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+          "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        },
+        {
+            "program": "BScIT",
+            "year": "2021-2022",
+             "columns": ["Total", "Opted", "Placed"],
+            "row": [97, 30,22],
+            "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        },
+        {
+            "program": "BScIT",
+            "year": "2022-2023",
+             "columns": ["Total", "Opted", "Placed"],
+            "row": [110, 67, 19],
+            "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        }
+    ],
+    "MScIT":[
+        {
+          "program": "MScIT",
+          "year": "2020-2021",
+          "columns": ["Total", "Opted", "Placed"],
+          "row": [15, 12, 10],
+          "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+          "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+          "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        },
+        {
+            "program": "MScIT",
+            "year": "2021-2022",
+             "columns": ["Total", "Opted", "Placed"],
+            "row": [34, 24, 22],
+            "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        },
+        {
+            "program": "MScIT",
+            "year": "2022-2023",
+             "columns": ["Total", "Opted", "Placed"],
+            "row": [7, 7, 7],
+            "backgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "hoverBackgroundColor": ["#C55858", "#3883F5", "#00cc99"],
+            "pdfUrl":"https://www.meity.gov.in/writereaddata/files/National-Data-Governance-Framework-Policy.pdf"
+        }
+    ]
+}
